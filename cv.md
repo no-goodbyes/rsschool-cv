@@ -22,3 +22,13 @@ function multiply(a, b){
   return result;
 }
 ```
+
+## Work experience:
+
+_Nothing yet..._
+
+## Education and cources:
+
+1. [Learn JavaScript](https://learn.javascript.ru/)
+2. [Basics of front end development](https://cat.2035.university/rall/course/11957/)
+3. [JavaScript and React (in process)](https://www.udemy.com/course/javascript_full/)
