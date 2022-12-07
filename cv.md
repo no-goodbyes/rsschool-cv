@@ -1,10 +1,10 @@
 # Sofiia Nesterenko
 
----
+## ![avatar](ava.jpg)
 
 ## Contacts:
 
-- **Email:** no_goodbyes@mail
+- **Email:** no_goodbyes@mail.ru
 - **Discord:** Sophie
 - **GitHub:** [no_goodbyes](https://github.com/no-goodbyes)
 
