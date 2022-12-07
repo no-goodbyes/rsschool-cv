@@ -12,6 +12,12 @@
 
 I am an open-minded, enthusiastic and responsible person. I am alway willing to learn new skills and broaden my horizons. I am looking forward to dive into the world of front-end development!
 
+## Skills:
+
+- HTML
+- CSS
+- Git
+
 ## Code example:
 
 ```
