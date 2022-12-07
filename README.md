@@ -1,1 +1,1 @@
-https://no-goodbyes.github.io/rsschool-cv/cv
+https://no_goodbyes.github.io/rsschool-cv/
