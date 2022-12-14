@@ -1,6 +1,6 @@
 # Sofiia Nesterenko
 
-## ![avatar](ava.png)
+## ![avatar](/img/ava.png)
 
 ## Contacts:
 
